@@ -29,7 +29,6 @@ Keyword-Extraction-Model/
 ├── main.py                 # Main script to run the application
 ├── keyword_extraction.py   # Module for extracting keywords
 ├── disease_prediction.py   # Module for disease prediction
-├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 └── data/                   # Directory for storing input/output files
     ├── input/              # Input medical records
